@@ -1,1 +1,3 @@
 este es solo un ejemplo para conectar este repositorio que est en github al repositorio local de git
+estoy agregando esta linea adicional en este archivo. solo para probar que funciona en el archivo original primer commit en hubforcoco
+esta es otra linea para hacer prueba desde hubforcoco
